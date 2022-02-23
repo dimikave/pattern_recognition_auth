@@ -1,2 +1,2 @@
-# Pattern Recognition Course Auth
-Homework Assignments for the AUTh Course "Pattern Recognition" 2021
+# Pattern Recognition Course 
+This repo contains solutions to some quizzes, some solutions to classification and clustering problems as well as some parts of easy to use code
